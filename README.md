@@ -75,7 +75,7 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 ## Contact
 
-For any questions or suggestions, feel free to open an issue or contact the repository owner at [your.email@example.com](mailto:your.email@example.com).
+For any questions or suggestions, feel free to open an issue or contact the repository owner at [your.email@example.com](mailto:raoharikrishna77@gmail.com).
 
 ---
 
